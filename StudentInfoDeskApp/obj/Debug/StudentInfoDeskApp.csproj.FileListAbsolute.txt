@@ -1,0 +1,9 @@
+H:\Taukir\StudentInfoDeskApp\StudentInfoDeskApp\bin\Debug\StudentInfoDeskApp.exe.config
+H:\Taukir\StudentInfoDeskApp\StudentInfoDeskApp\bin\Debug\StudentInfoDeskApp.exe
+H:\Taukir\StudentInfoDeskApp\StudentInfoDeskApp\bin\Debug\StudentInfoDeskApp.pdb
+H:\Taukir\StudentInfoDeskApp\StudentInfoDeskApp\obj\Debug\StudentInfoDeskApp.csprojResolveAssemblyReference.cache
+H:\Taukir\StudentInfoDeskApp\StudentInfoDeskApp\obj\Debug\StudentInfoDeskApp.StudentInfoUI.resources
+H:\Taukir\StudentInfoDeskApp\StudentInfoDeskApp\obj\Debug\StudentInfoDeskApp.Properties.Resources.resources
+H:\Taukir\StudentInfoDeskApp\StudentInfoDeskApp\obj\Debug\StudentInfoDeskApp.csproj.GenerateResource.Cache
+H:\Taukir\StudentInfoDeskApp\StudentInfoDeskApp\obj\Debug\StudentInfoDeskApp.exe
+H:\Taukir\StudentInfoDeskApp\StudentInfoDeskApp\obj\Debug\StudentInfoDeskApp.pdb
